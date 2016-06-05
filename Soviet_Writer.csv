@@ -1,0 +1,146 @@
+Node Writer,Target Writer,Strength,Length,Institution
+Tamara Gabbe,Samuil Marshak,5,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Evgeny Shvartz,2,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Lidiya Chukovskaya,5,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Lenoid Panteleev,2,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Korney Chukovsky,2,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Georgy Belyh,1,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Boris Zhitkov,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Frida Vigdorova,3,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Nora Gal,2,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Tamara Gabbe,Susanna Georgievskaya,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Boris Zhitkov,Korney Chukovsky,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Boris Zhitkov,Lidiya Chukovskaya,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Boris Zhitkov,Lenoid Panteleev,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Boris Zhitkov,Georgy Belyh,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Boris Zhitkov,Samuil Marshak,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Samuil Marshak,Korney Chukovsky,2,1,"""Youth"" Journal"
+Samuil Marshak,Lidiya Chukovskaya,3,1,"""Youth"" Journal"
+Samuil Marshak,Frida Vigdorova,1,2,"""Youth"" Journal"
+Samuil Marshak,Lev Kassil,2,1,"""Youth"" Journal"
+Evgeny Shvartz,Lenoid Panteleev,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Evgeny Shvartz,Tamara Gabbe,2,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Evgeny Shvartz,Lidiya Chukovskaya,1,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Korney Chukovsky,Samuil Marshak,2,1,Moscow Bureau of the Children's Section
+Korney Chukovsky,Lidiya Chukovskaya,4,1,Moscow Bureau of the Children's Section
+Korney Chukovsky,Boris Zhitkov,4,1,Moscow Bureau of the Children's Section
+Korney Chukovsky,Lenoid Panteleev,3,1,Moscow Bureau of the Children's Section
+Korney Chukovsky,Lev Kassil,1,1,Moscow Bureau of the Children's Section
+Lenoid Panteleev,Georgy Belyh,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lenoid Panteleev,Lidiya Chukovskaya,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lenoid Panteleev,Evgeny Shvartz,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lenoid Panteleev,Boris Zhitkov,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Korney Chukovsky,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Frida Vigdorova,5,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Tamara Gabbe,5,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Samuil Marshak,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Nora Gal,1,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Ljubov Kabo,2,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Max Bremener,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Benedict Sarnov,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Lev Kassil,1,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Lenoid Panteleev,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Alexander Sharov,1,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Alexandra Brushtein,3,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Alexander Raskin,3,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Susanna Georgievskaya,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Maria Prilezhaeva,1,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Georgy Belyh,1,2,"Leningrad Branch of ""Detgiz"" Publishing House"
+Lidiya Chukovskaya,Boris Zhitkov,4,1,"Leningrad Branch of ""Detgiz"" Publishing House"
+Frida Vigdorova,Alexander Raskin,5,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Lidiya Chukovskaya,5,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Nora Gal,5,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Alexandra Brushtein,3,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Alexander Sharov,3,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Ljubov Kabo,3,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Susanna Georgievskaya,4,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Korney Chukovsky,2,2,Moscow Bureau of the Children's Section
+Frida Vigdorova,Samuil Marshak,1,2,Moscow Bureau of the Children's Section
+Frida Vigdorova,Max Bremener,3,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Evgeny Shvartz,1,3,Moscow Bureau of the Children's Section
+Frida Vigdorova,Tamara Gabbe,3,2,Moscow Bureau of the Children's Section
+Frida Vigdorova,Alexey Panteleev,1,2,Moscow Bureau of the Children's Section
+Frida Vigdorova,Lev Kassil,1,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Anatoly Alexin,2,1,Moscow Bureau of the Children's Section
+Frida Vigdorova,Losif Dik,1,1,Moscow Bureau of the Children's Section
+Konstantin Paustovksy,Lev Kassil,2,1,Gorky Literary Institute
+Konstantin Paustovksy,Losif Dik,4,1,Gorky Literary Institute
+Konstantin Paustovksy,Max Bremener,3,1,Gorky Literary Institute
+Konstantin Paustovksy,Yuri Trifonov,2,1,Gorky Literary Institute
+Konstantin Paustovksy,Benedict Sarnov,2,1,Gorky Literary Institute
+Lev Kassil,Losif Dik,2,1,"""Youth"" Journal"
+Lev Kassil,Max Bremener,3,1,"""Youth"" Journal"
+Lev Kassil,Yakov Akim,1,1,"""Youth"" Journal"
+Lev Kassil,Lidiya Chukovskaya,1,1,"""Youth"" Journal"
+Lev Kassil,Frida Vigdorova,1,1,"""Youth"" Journal"
+Lev Kassil,Anatoly Alexin,4,1,"""Youth"" Journal"
+Lev Kassil,Valentin Kataev,3,1,"""Youth"" Journal"
+Lev Kassil,Konstantin Paustovksy,2,1,"""Youth"" Journal"
+Lev Kassil,Alexandra Brushtein,1,1,"""Youth"" Journal"
+Lev Kassil,Tamara Gabbe,1,1,"""Youth"" Journal"
+Lev Kassil,Benedict Sarnov,2,1,"""Youth"" Journal"
+Max Bremener,Lidiya Chukovskaya,3,1,Gorky Literary Institute
+Max Bremener,Frida Vigdorova,3,1,Gorky Literary Institute
+Max Bremener,Benedict Sarnov,4,1,Gorky Literary Institute
+Max Bremener,Yuri Sotnik,4,1,Gorky Literary Institute
+Max Bremener,Yakov Akim,1,1,Gorky Literary Institute
+Max Bremener,Losif Dik,3,1,Gorky Literary Institute
+Max Bremener,Yuri Trifonov,3,1,Gorky Literary Institute
+Max Bremener,Lev Kassil,3,1,Gorky Literary Institute
+Max Bremener,Valentin Kataev,1,2,Gorky Literary Institute
+Maria Prilezhaeva,Lev Kassil,1,1,"""Youth"" Journal"
+Maria Prilezhaeva,Valentin Kataev,1,1,"""Youth"" Journal"
+Maria Prilezhaeva,Max Bremener,1,2,"""Youth"" Journal"
+Maria Prilezhaeva,Lidiya Chukovskaya,1,1,"""Youth"" Journal"
+Valentin Kataev,Lev Kassil,3,1,Moscow Bureau of the Children劌製 Section
+Valentin Kataev,Maria Prilezhaeva,1,1,Moscow Bureau of the Children劌製 Section
+Valentin Kataev,Samuil Marshak,1,1,Moscow Bureau of the Children劌製 Section
+Valentin Kataev,Korney Chukovsky,2,1,Moscow Bureau of the Children劌製 Section
+Valentin Kataev,Max Bremener,1,2,Moscow Bureau of the Children劌製 Section
+Valentin Kataev,Lidiya Chukovskaya,1,2,Moscow Bureau of the Children劌製 Section
+Losif Dik,Konstantin Paustovksy,4,1,Gorky Literary Institute
+Losif Dik,Lev Kassil,2,1,Gorky Literary Institute
+Losif Dik,Max Bremener,3,1,Gorky Literary Institute
+Losif Dik,Yakov Akim,2,1,Gorky Literary Institute
+Losif Dik,Yuri Trifonov,3,1,Gorky Literary Institute
+Losif Dik,Benedict Sarnov,2,1,Gorky Literary Institute
+Anatoly Alexin,Lev Kassil,4,1,Moscow Bureau of the Children劌製 Section
+Anatoly Alexin,Frida Vigdorova,2,1,Moscow Bureau of the Children劌製 Section
+Yuri Trifonov,Max Bremener,3,1,Gorky Literary Institute
+Yuri Trifonov,Losif Dik,3,1,Gorky Literary Institute
+Yuri Trifonov,Benedict Sarnov,3,1,Gorky Literary Institute
+Yuri Trifonov,Lev Kassil,1,1,Gorky Literary Institute
+Yuri Trifonov,Konstantin Paustovksy,2,1,Gorky Literary Institute
+Yakov Akim,Losif Dik,2,1,Moscow Bureau of the Children劌製 Section
+Yakov Akim,Benedict Sarnov,1,1,Moscow Bureau of the Children劌製 Section
+Yakov Akim,Max Bremener,1,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Frida Vigdorova,3,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Lev Kassil,1,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Max Bremener,1,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Korney Chukovsky,3,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Alexandra Brushtein,3,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Benedict Sarnov,3,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Losif Dik,1,1,Moscow Bureau of the Children劌製 Section
+Alexander Sharov,Yakov Akim,1,1,Moscow Bureau of the Children劌製 Section
+Alexandra Brushtein,Frida Vigdorova,3,1,Moscow Bureau of the Children劌製 Section
+Alexandra Brushtein,Ljubov Kabo,2,1,Moscow Bureau of the Children劌製 Section
+Alexandra Brushtein,Nora Gal,2,1,Moscow Bureau of the Children劌製 Section
+Alexandra Brushtein,Lev Kassil,1,1,Moscow Bureau of the Children劌製 Section
+Alexandra Brushtein,Lidiya Chukovskaya,1,1,Moscow Bureau of the Children劌製 Section
+Nora Gal,Frida Vigdorova,5,1,Moscow Bureau of the Children劌製 Section
+Nora Gal,Alexandra Brushtein,3,1,Moscow Bureau of the Children劌製 Section
+Nora Gal,Tamara Gabbe,2,1,Moscow Bureau of the Children劌製 Section
+Ljubov Kabo,Frida Vigdorova,3,1,Moscow Bureau of the Children劌製 Section
+Ljubov Kabo,Lidiya Chukovskaya,3,1,Moscow Bureau of the Children劌製 Section
+Ljubov Kabo,Max Bremener,1,1,Moscow Bureau of the Children劌製 Section
+Susanna Georgievskaya,Lidiya Chukovskaya,4,1,Moscow Bureau of the Children劌製 Section
+Susanna Georgievskaya,Frida Vigdorova,4,1,Moscow Bureau of the Children劌製 Section
+Susanna Georgievskaya,Tamara Gabbe,5,1,Moscow Bureau of the Children劌製 Section
+Benedict Sarnov,Losif Dik,2,1,Independent
+Benedict Sarnov,Max Bremener,4,1,Independent
+Benedict Sarnov,Lidiya Chukovskaya,3,1,Independent
+Benedict Sarnov,Yakov Akim,1,1,Independent
+Benedict Sarnov,Lev Kassil,2,1,Independent
+Benedict Sarnov,Frida Vigdorova,2,1,Independent
+Benedict Sarnov,Alexander Sharov,3,1,Independent
+Benedict Sarnov,Konstantin Paustovksy,2,1,Independent
